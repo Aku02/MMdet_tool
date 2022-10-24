@@ -4,7 +4,8 @@ work_dirs/
 configs/tmp/
 data/
 tools/local/
-
+checkpoints/*
+dataset/*
 .DS_Store 
 */.DS_Store 
 
